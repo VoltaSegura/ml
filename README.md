@@ -1,10 +1,11 @@
-> 🗂 **Ficha da CitizenTech** — produto **VoltaSegura** (ex-"CitizenTech"); estudantes universitários noturnos; São Paulo;
-> problema: apps de mobilidade não expõem condições urbanas que influenciam a percepção de segurança;
-> como funciona: compara alternativas de ida/volta com exposição estimada + confiança dos dados;
-> ODS: 11 (cidades sustentáveis) e 10 (desigualdades). Detalhes completos no README do monorepo
-> **VoltaSegura/voltasegura** (single source of truth).
+# ml — entrega da disciplina Inteligência Artificial & Machine Learning (VoltaSegura)
 
-## voltasegura-ml — espelho de entrega da disciplina
+> 🗂 **Ficha da CitizenTech** — resumo do produto **VoltaSegura** (ex-"CitizenTech"; renomeado em 10/11/2026):
+> cidade São Paulo; cidadão = estudante universitário do período noturno;
+> problema = falta de visão integrada das condições urbanas que influenciam a percepção de segurança no deslocamento;
+> como funciona = comparação de alternativas de ida/volta com exposição estimada e confiança dos dados;
+> ODS = 11 e 10. Ficha completa: monorepo **https://github.com/VoltaSegura/voltasegura**.
+> ⚠️ O produto não garante segurança e não classifica bairros — comunicar apenas exposição estimada e confiança dos dados (=`docs`/04).
 
 **Monorepo central (fonte da verdade)**: https://github.com/VoltaSegura/voltasegura
 
